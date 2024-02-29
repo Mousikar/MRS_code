@@ -14,6 +14,7 @@ for i = 1:iter
     q_his(:,i) = q;
     err_his(:,i) = ( q - ref(t) ) ;
     dotq = dot_ref(t) - k * ( q - ref(t) ) - L * ( q - ref(t) );
+    % dotq = dot_ref(t) - L * ( q - ref(t) );
     q = q + dotq * dt;
 end
 t = (i+1)*dt;
