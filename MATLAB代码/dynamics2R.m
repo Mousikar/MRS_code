@@ -41,11 +41,11 @@ dotqd = [0;pi / (step * T)];
 ddotqd = 0;
 
 %% control
-kv = 8;
-kp = 16;
+kv = 16;
+kp = 64;
 
 for i=1:step
-    % tau = [1;2];
+    % tau = [1;2]; % 毫无控制
     
     M = [(m1+m2)*l1^2 + m2*l2^2 + 2*m2*l1*l2*cos(theta2), m2*l2^2 + m2*l1*l2*cos(theta2);
         m2*l1*l2*cos(theta2)+m2*l2^2, m2*l2^2];
@@ -54,7 +54,7 @@ for i=1:step
     G = [m2*l2*g*cos(theta1+theta2) + (m1+m2)*l1*g*cos(theta1);
         m2*l2*g*cos(theta1+theta2)];
 
-    tau = M * (ddotqd + kv * (dotqd - dotq) + kp * (qd(:,i) - q)) + H + G;
+    tau = M * (ddotqd + kv * (dotqd - dotq) + kp * (qd(:,i) - q)) + H + G; % 加上了控制
     
     ddotq = M\(tau - H - G);
 
@@ -80,21 +80,25 @@ subplot(221)
 plot(q_his')
 hold on
 plot(qd','k--')
-
+legend('实际角度1','实际角度2','期望角度1','期望角度2')
+title('关节角度')
 
 subplot(222)
 plot(x_his,y_his)
 hold on
 plot(xd_his,yd_his,'k--')
-legend
+legend('实际轨迹','期望轨迹')
 axis equal
+title('末端轨迹')
 
 subplot(223)
 plot(dotq_his')
 hold on
 plot([dotqd(1)*ones(step,1),dotqd(2)*ones(step,1)],'k--')
-legend
+legend('实际角速度1','实际角速度2','期望角速度1','期望角速度2')
+title('关节角速度')
 
 subplot(224)
 plot(ddotq_his')
-legend
+legend('实际角加速度1','实际角加速度2')
+title('关节角加速度')

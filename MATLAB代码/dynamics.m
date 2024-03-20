@@ -66,11 +66,11 @@ q_his = [q_his,q];
 dotq_his = [dotq_his,dotq];
 ddotq_his = [ddotq_his,ddotq];
 
-taul = 1;
-taur = 1;
-tau1 = 1;
-tau2 = 1;
-tau3 = 1;
+taul = 0;
+taur = 0;
+tau1 = 0;
+tau2 = 0;
+tau3 = 0;
 
 for i=1:4000
     tau = [taul,taur,tau1,tau2,tau3]';
