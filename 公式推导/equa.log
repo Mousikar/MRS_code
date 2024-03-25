@@ -1,0 +1,1305 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.28)  25 MAR 2024 21:48
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex
+(c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen141
+))
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count198
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks17
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks18
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks19
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count271
+\l__pdf_internal_box=\box53
+) (equa.aux)
+\openout1 = `equa.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen152
+\scratchbox=\box54
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen153
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks23
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<./note.png, id=1, 963.6pt x 542.025pt>
+File: ./note.png Graphic file (type png)
+<use ./note.png>
+Package pdftex.def Info: ./note.png  used on input line 8.
+(pdftex.def)             Requested size: 345.0pt x 194.06194pt.
+ [1{C:/Users/30296/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+ <./note.png>]
+Overfull \hbox (9.22722pt too wide) detected at line 92
+[][][]
+ []
+
+[2]
+Overfull \hbox (3.08228pt too wide) detected at line 224
+[][][]
+ []
+
+
+Overfull \hbox (44.91971pt too wide) detected at line 243
+[][][]
+ []
+
+[3]
+Overfull \hbox (85.43275pt too wide) detected at line 273
+[][][]
+ []
+
+[4]
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 		m_{41} & = -((cos(theta__
+                                 2(t))*m__2*l__21 + l__1*m__2 + m__1*l__11)*...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 		m_{41} & = -((cos(theta__2(t))*m__
+                                          2*l__21 + l__1*m__2 + m__1*l__11)*...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 		m_{41} & = -((cos(theta__2(t))*m__2*l__
+                                               21 + l__1*m__2 + m__1*l__11)*...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ... & = -((cos(theta__2(t))*m__2*l__21 + l__
+                                                  1*m__2 + m__1*l__11)*sin(t...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...-((cos(theta__2(t))*m__2*l__21 + l__1*m__
+                                                  2 + m__1*l__11)*sin(theta_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...theta__2(t))*m__2*l__21 + l__1*m__2 + m__
+                                                  1*l__11)*sin(theta__1(t)) ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...__2(t))*m__2*l__21 + l__1*m__2 + m__1*l__
+                                                  11)*sin(theta__1(t)) + cos...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ..._21 + l__1*m__2 + m__1*l__11)*sin(theta__
+                                                  1(t)) + cos(theta__1(t))*s...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...__1*l__11)*sin(theta__1(t)) + cos(theta__
+                                                  1(t))*sin(theta__2(t))*m__...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...eta__1(t)) + cos(theta__1(t))*sin(theta__
+                                                  2(t))*m__2*l__21)*cos(thet...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...) + cos(theta__1(t))*sin(theta__2(t))*m__
+                                                  2*l__21)*cos(theta__p(t)) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...os(theta__1(t))*sin(theta__2(t))*m__2*l__
+                                                  21)*cos(theta__p(t)) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.278 ...*sin(theta__2(t))*m__2*l__21)*cos(theta__
+                                                  p(t)) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Misplaced ali
+gnment tab character &.
+\next@ ->&
+          \kern -\alignsep@ 
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Misplaced \cr
+.
+\math@cr@@@ ...&\kern -\alignsep@ }\fi \next@ \cr 
+                                                  
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Misplaced \no
+align.
+\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
+                                                  {\vskip #1\relax }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing $ ins
+erted.
+<inserted text> 
+                $
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing } ins
+erted.
+<inserted text> 
+                }
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing \cr i
+nserted.
+<inserted text> 
+                \cr 
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing { ins
+erted.
+<inserted text> 
+                {
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:278: Missing $ ins
+erted.
+<inserted text> 
+                $
+l.278 ...ta__2(t))*m__2*l__21)*cos(theta__p(t)) \\
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Misplaced ali
+gnment tab character &.
+l.279 		m_{42} &
+                 = -((cos(theta__2(t))*m__2*l__21 + l__1*m__2 + m__1*l__11)*...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 		m_{42} & = -((cos(theta__
+                                 2(t))*m__2*l__21 + l__1*m__2 + m__1*l__11)*...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 		m_{42} & = -((cos(theta__2(t))*m__
+                                          2*l__21 + l__1*m__2 + m__1*l__11)*...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 		m_{42} & = -((cos(theta__2(t))*m__2*l__
+                                               21 + l__1*m__2 + m__1*l__11)*...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ... & = -((cos(theta__2(t))*m__2*l__21 + l__
+                                                  1*m__2 + m__1*l__11)*sin(t...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...-((cos(theta__2(t))*m__2*l__21 + l__1*m__
+                                                  2 + m__1*l__11)*sin(theta_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...theta__2(t))*m__2*l__21 + l__1*m__2 + m__
+                                                  1*l__11)*sin(theta__1(t)) ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...__2(t))*m__2*l__21 + l__1*m__2 + m__1*l__
+                                                  11)*sin(theta__1(t)) + cos...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ..._21 + l__1*m__2 + m__1*l__11)*sin(theta__
+                                                  1(t)) + cos(theta__1(t))*s...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...__1*l__11)*sin(theta__1(t)) + cos(theta__
+                                                  1(t))*sin(theta__2(t))*m__...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...eta__1(t)) + cos(theta__1(t))*sin(theta__
+                                                  2(t))*m__2*l__21)*sin(thet...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...) + cos(theta__1(t))*sin(theta__2(t))*m__
+                                                  2*l__21)*sin(theta__p(t)) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...os(theta__1(t))*sin(theta__2(t))*m__2*l__
+                                                  21)*sin(theta__p(t)) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:279: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.279 ...*sin(theta__2(t))*m__2*l__21)*sin(theta__
+                                                  p(t)) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:280: Misplaced ali
+gnment tab character &.
+l.280 		m_{43} &
+                 = 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Misplaced ali
+gnment tab character &.
+l.281 		m_{44} &
+                 = 2*cos(theta__2(t))*l__1*m__2*l__21 + (l__1^2 + l__21^2)*m...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 		m_{44} & = 2*cos(theta__
+                                2(t))*l__1*m__2*l__21 + (l__1^2 + l__21^2)*m...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 		m_{44} & = 2*cos(theta__2(t))*l__
+                                         1*m__2*l__21 + (l__1^2 + l__21^2)*m...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 		m_{44} & = 2*cos(theta__2(t))*l__1*m__
+                                              2*l__21 + (l__1^2 + l__21^2)*m...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 ...{44} & = 2*cos(theta__2(t))*l__1*m__2*l__
+                                                  21 + (l__1^2 + l__21^2)*m_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 ...2*cos(theta__2(t))*l__1*m__2*l__21 + (l__
+                                                  1^2 + l__21^2)*m__2 + m__1...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 ...ta__2(t))*l__1*m__2*l__21 + (l__1^2 + l__
+                                                  21^2)*m__2 + m__1*l__11^2 \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 ...*l__1*m__2*l__21 + (l__1^2 + l__21^2)*m__
+                                                  2 + m__1*l__11^2 \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 ...__2*l__21 + (l__1^2 + l__21^2)*m__2 + m__
+                                                  1*l__11^2 \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:281: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.281 ...__21 + (l__1^2 + l__21^2)*m__2 + m__1*l__
+                                                  11^2 \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:282: Misplaced ali
+gnment tab character &.
+l.282 		m_{45} &
+                 = m__2*l__21*(cos(theta__2(t))*l__1 + l__21) \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:282: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.282 		m_{45} & = m__
+                      2*l__21*(cos(theta__2(t))*l__1 + l__21) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:282: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.282 		m_{45} & = m__2*l__
+                           21*(cos(theta__2(t))*l__1 + l__21) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:282: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.282 		m_{45} & = m__2*l__21*(cos(theta__
+                                          2(t))*l__1 + l__21) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:282: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.282 ...{45} & = m__2*l__21*(cos(theta__2(t))*l__
+                                                  1 + l__21) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:282: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.282 ...= m__2*l__21*(cos(theta__2(t))*l__1 + l__
+                                                  21) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:283: Misplaced ali
+gnment tab character &.
+l.283 		c_{41} &
+                 = 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:284: Misplaced ali
+gnment tab character &.
+l.284 		c_{42} &
+                 = 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Misplaced ali
+gnment tab character &.
+l.285 		c_{43} &
+                 = ((cos(theta__2(t))*m__2*l__21 + l__1*m__2 + m__1*l__11)*s...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 		c_{43} & = ((cos(theta__
+                                2(t))*m__2*l__21 + l__1*m__2 + m__1*l__11)*s...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 		c_{43} & = ((cos(theta__2(t))*m__
+                                         2*l__21 + l__1*m__2 + m__1*l__11)*s...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 		c_{43} & = ((cos(theta__2(t))*m__2*l__
+                                              21 + l__1*m__2 + m__1*l__11)*s...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...} & = ((cos(theta__2(t))*m__2*l__21 + l__
+                                                  1*m__2 + m__1*l__11)*sin(t...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ... ((cos(theta__2(t))*m__2*l__21 + l__1*m__
+                                                  2 + m__1*l__11)*sin(theta_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...theta__2(t))*m__2*l__21 + l__1*m__2 + m__
+                                                  1*l__11)*sin(theta__1(t)) ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...__2(t))*m__2*l__21 + l__1*m__2 + m__1*l__
+                                                  11)*sin(theta__1(t)) + cos...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ..._21 + l__1*m__2 + m__1*l__11)*sin(theta__
+                                                  1(t)) + cos(theta__1(t))*s...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...__1*l__11)*sin(theta__1(t)) + cos(theta__
+                                                  1(t))*sin(theta__2(t))*m__...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...eta__1(t)) + cos(theta__1(t))*sin(theta__
+                                                  2(t))*m__2*l__21)*(diff(x_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...) + cos(theta__1(t))*sin(theta__2(t))*m__
+                                                  2*l__21)*(diff(x__p(t), t)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...os(theta__1(t))*sin(theta__2(t))*m__2*l__
+                                                  21)*(diff(x__p(t), t)*sin(...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...))*sin(theta__2(t))*m__2*l__21)*(diff(x__
+                                                  p(t), t)*sin(theta__p(t)) ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...m__2*l__21)*(diff(x__p(t), t)*sin(theta__
+                                                  p(t)) - diff(y__p(t), t)*c...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...f(x__p(t), t)*sin(theta__p(t)) - diff(y__
+                                                  p(t), t)*cos(theta__p(t))) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:285: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.285 ...eta__p(t)) - diff(y__p(t), t)*cos(theta__
+                                                  p(t))) \\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Misplaced ali
+gnment tab character &.
+l.286 		c_{44} &
+                 =  -2*sin(theta__2(t))*l__1*m__2*l__21*diff(theta__2(t), t)...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 		c_{44} & =  -2*sin(theta__
+                                  2(t))*l__1*m__2*l__21*diff(theta__2(t), t)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 		c_{44} & =  -2*sin(theta__2(t))*l__
+                                           1*m__2*l__21*diff(theta__2(t), t)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 		c_{44} & =  -2*sin(theta__2(t))*l__1*m__
+                                                2*l__21*diff(theta__2(t), t)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...4} & =  -2*sin(theta__2(t))*l__1*m__2*l__
+                                                  21*diff(theta__2(t), t) - ...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...theta__2(t))*l__1*m__2*l__21*diff(theta__
+                                                  2(t), t) - (-sin(theta__2(...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...__21*diff(theta__2(t), t) - (-sin(theta__
+                                                  2(t))*m__2*l__21*sin(theta...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...(theta__2(t), t) - (-sin(theta__2(t))*m__
+                                                  2*l__21*sin(theta__1(t)) +...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...a__2(t), t) - (-sin(theta__2(t))*m__2*l__
+                                                  21*sin(theta__1(t)) + cos(...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...(-sin(theta__2(t))*m__2*l__21*sin(theta__
+                                                  1(t)) + cos(theta__1(t))*(...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...m__2*l__21*sin(theta__1(t)) + cos(theta__
+                                                  1(t))*(cos(theta__2(t))*m_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...ta__1(t)) + cos(theta__1(t))*(cos(theta__
+                                                  2(t))*m__2*l__21 + l__1*m_...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ... + cos(theta__1(t))*(cos(theta__2(t))*m__
+                                                  2*l__21 + l__1*m__2 + m__1...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286: Missing { ins
+erted.
+<to be read again> 
+                   _
+l.286 ...s(theta__1(t))*(cos(theta__2(t))*m__2*l__
+                                                  21 + l__1*m__2 + m__1*l__1...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 2005 strings out of 476331
+ 30806 string characters out of 5797580
+ 1880660 words of memory out of 5000000
+ 22472 multiletter control sequences out of 15000+600000
+ 512741 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,55n,62p,332b,280s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+c:/Users/30296/Documents/code/MRS_code/公式推导/equa.tex:286:  ==> Fatal er
+ror occurred, no output PDF file produced!
